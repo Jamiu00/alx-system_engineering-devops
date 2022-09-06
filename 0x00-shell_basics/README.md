@@ -1,2 +1,2 @@
 Bash scripting for:
-NAvigating shell
+Navigating shell
